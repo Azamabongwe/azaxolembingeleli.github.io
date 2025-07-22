@@ -1,9 +1,6 @@
-# azaxolembingeleli.github.io
-
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Azaxole Mbingeleli - IT Professional</title>
+  <title> Azaxole Mbingeleli - IT Professional </title>
   <style>
     body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 2rem; line-height: 1.6; }
     h1 { color: #333; }
